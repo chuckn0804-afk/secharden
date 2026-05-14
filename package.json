@@ -1,0 +1,12 @@
+{
+  "name": "secharden",
+  "version": "0.1.0",
+  "description": "Security hardening audit tool for Windows / WSL2 environments",
+  "scripts": {
+    "audit": "bun src/index.ts",
+    "test": "bun test"
+  },
+  "keywords": ["security", "hardening", "wsl2", "windows", "audit", "typescript"],
+  "author": "chuckn0804-afk",
+  "license": "MIT"
+}
